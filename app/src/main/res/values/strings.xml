@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LOCA</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="facebook_application_id" translatable="false">711948338973822</string>
+    <string name="send_check">send_check</string>
+    <string name="title_activity_admin_maps">Map</string>
+    <string name="title_activity_admin_view">AdminView</string>
+</resources>

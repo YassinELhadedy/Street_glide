@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "590598399108",
+    "firebase_url": "https://loca-953bc.firebaseio.com",
+    "project_id": "loca-953bc",
+    "storage_bucket": "loca-953bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590598399108:android:3e05a22ae88f6883",
+        "android_client_info": {
+          "package_name": "kk.ljq.hhh.loca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590598399108-2e4nci5cngbqbk2shaumlq3ee16s5tcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kk.ljq.hhh.loca",
+            "certificate_hash": "708752AB4BD7405756B7740E554FB082C777018E"
+          }
+        },
+        {
+          "client_id": "590598399108-t6f4q100mbqi33ug20hg069vbgqkfmcf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8gOSvUrjeXrONd0KLUWV9uuJ7lLr21Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590598399108-t6f4q100mbqi33ug20hg069vbgqkfmcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
